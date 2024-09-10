@@ -20,5 +20,5 @@ Import the diabetes data
 11. Get an idea how the traget variable is different for each column of diabetic and non diabetic. 
 12. create x and y variable for machine learning 
 13. split the data in train and test 
-14. Run the below mentioned model and find accuracy, classification report and confusion metric a. Logistic Regression b. Decision Tree c. RandomForest d. SVM e. XBoost 
+14. Run the below mentioned model and find accuracy, classification report and confusion metric a. Logistic Regression b RandomForest c. SVM  
 15. Find the variables that impact the most.
